@@ -7,4 +7,6 @@ container{
 
 liste{
   display: flex;
+  list-style-type: none;
+  background-color: red;
 }
