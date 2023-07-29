@@ -2,7 +2,8 @@
   display: flex;
 }
 .container{
-  color: red
+  color: red;
+   display: flex
 }
 
 .liste a{
